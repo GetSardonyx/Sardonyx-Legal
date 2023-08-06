@@ -1,5 +1,5 @@
 # Sardonyx Terms of Service
-### as of August 4th, 2023
+### as of August 6th, 2023
 ## NOTICE
 This document is not written by a legal professional.
 
@@ -23,4 +23,6 @@ As a user of our services, you agree to not abuse, evade, or manipulate our safe
 As a user of our services, you agree to not create accounts for scripts or robots.
 
 As a user of our services, you agree that our services may go offline with or without notice.
+
+As a user of our services, you agree to not abuse any discovered vulnerabilites in the platform.
 
